@@ -23,3 +23,14 @@ a {
   font-size: 18px;
   color: white;
 }
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
+}
+
+.footer a {
+  font-size: 11px;
+}
